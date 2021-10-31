@@ -2,7 +2,9 @@
 Assignements for IIT CS6530 Cryptography Basics
 
 Name               : Gobinath Periyasamy
+
 Roll Number        : CS21M501
+
 Registered Mail id : janu.gobi@gmail.com
 
 Steps to Execute the Program:
